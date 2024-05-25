@@ -2,6 +2,8 @@
 
 Picture this: you've got a revolutionary robot design in your head, but sketching it out just doesn't do it justice. Enter the fascinating world of Computer-Aided Design (CAD)! It's like a digital sculptor's studio, where engineers can bring robots to life in stunning 3D. Think of it as the blueprint stage, just like how URDF describes a robot's structure in code.Both CAD and URDF are the secret ingredients that turn those initial sparks of robot ideas into real, functional machines!Get ready to explore the magic behind creating these robotic marvels.
 
+<img allign="center" width="400" height="150" src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/Fusion-360.jpg?raw=true">
+
 ## Fusion 360 installation guide
 
 Fusion 360 is a powerful 3D design and Computer-Aided Manufacturing (CAM) software platform. Here are some of its key functionalities:

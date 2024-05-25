@@ -10,6 +10,9 @@ Deliverable: A 3D model of the pulley support system in your chosen CAD software
 
 Sharpen your CAD skills by creating a model from a technical drawing!
 
+Analyse the diagram below
+
+<img allign="center" width="400" height="300" src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/large-2.jpeg?raw=true">
 
 
 
@@ -25,6 +28,10 @@ Put your CAD skills to the test! Design a 3D model of an F450 drone chassis usin
 Deliverable: A 3D model of the F450 drone chassis in your chosen CAD software format.
 
 Level up your CAD skills by designing a real-world drone component!
+
+Review the following Schematics
+
+<img allign="center" width="400" height="300" src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/Architectural-Design-of-F450-Frame.jpg?raw=true">
 
 
 ### Submission Link
