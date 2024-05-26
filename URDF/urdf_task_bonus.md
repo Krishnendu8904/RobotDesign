@@ -2,6 +2,8 @@
 
 This task challenges you to build a basic visual representation of an excavator using the Unified Robot Description Format (URDF).
 
+<img src="" width="400" height="400"> 
+
 ### What You'll Do:
 
 * Design with URDF:  Using a text editor, create a URDF file for a virtual excavator.
@@ -20,3 +22,7 @@ Animate the joint movements to observe and record the excavator's basic function
 * Video Recording: Record a short video demonstrating both:
 The visual representation of the excavator loaded in the online URDF visualizer.
 Basic movements of the arm segments and digger rotation using the visualizer's animation features.
+
+## [> SUBMISSION LINK <]()
+
+### [Robotics design using CAD -->]()

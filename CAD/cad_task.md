@@ -14,9 +14,6 @@ Analyse the diagram below
 
 <img allign="center" width="400" height="300" src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/large-2.jpeg?raw=true">
 
-
-
-
 # TASK 2: Design a 3D F450 Drone Chassis
 
 Put your CAD skills to the test! Design a 3D model of an F450 drone chassis using the provided schematics (dimensions) in your preferred CAD software (e.g., Fusion 360).
@@ -33,5 +30,6 @@ Review the following Schematics
 
 <img allign="center" width="400" height="300" src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/Architectural-Design-of-F450-Frame.jpg?raw=true">
 
+## [> Submission Link <]()
 
-### Submission Link
+### [Conversion from Fusion360 to URDF -->]()

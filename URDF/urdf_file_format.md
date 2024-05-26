@@ -1,8 +1,10 @@
 # Building the Blueprint: URDF and Robot Design
 We've explored robot building blocks (links & joints) and their power source (actuators). Now, meet URDF: the robot's blueprint! This format describes a robot's structure (links, joints, connections) and actuators in a way computers understand. Think building a robot in a simulation - URDF lets software grasp the robot's capabilities and simulate its movements.
 
-### Here's a step-by-step guide to get you started creating your own URDF file:
+<img src="" width="350" height="350">
 
+### Here's a step-by-step guide to get you started creating your own URDF file:
+ 
 * Warm Up with XML: If you're new to coding, a [quick video](https://www.youtube.com/watch?v=1JblVElt5K0) on basic XML syntax will be helpful.
 * URDF 101: Get familiar with the fundamentals of URDF through [this introductory lecture](https://ocw.tudelft.nl/course-lectures/2-2-1-introduction-to-urdf).
 * Hands-on Practice: Now it's time to write your own URDF file! [These tutorials will guide you through the process](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file), focusing on the current core structure. Don't worry about making it look fancy yet.
@@ -27,9 +29,14 @@ Once you've written your URDF file, you can [visualise it using this online tool
 
 We've included a [sample URDF file for an R2D2 robot](https://github.com/Robotics-Club-IIT-BHU/Robotics-Camp-2023/blob/main/Mastering__Pybullet/PART_1/(2)%20Pybullet%20Basic%20Functions/sample.urdf) and a [Python script (visualizer.py)](https://github.com/Robotics-Club-IIT-BHU/Robotics-Camp-2023/blob/main/Mastering__Pybullet/PART_1/(2)%20Pybullet%20Basic%20Functions/visualizer.py) to visualise any URDF file. Download both files and play around!
 
+
+
 #### Additional Resources
 
 * [Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
 * [Building a visual robot](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
 
 *Tip: If they're not in the same folder, update the path to the URDF file in the Python script.*
+
+
+### [TASK 1 -->]()
