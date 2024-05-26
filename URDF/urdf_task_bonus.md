@@ -2,7 +2,7 @@
 
 This task challenges you to build a basic visual representation of an excavator using the Unified Robot Description Format (URDF).
 
-<img src="" width="400" height="400"> 
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/images.jpeg?raw=true" width="300" height="300"> 
 
 ### What You'll Do:
 
@@ -25,4 +25,4 @@ Basic movements of the arm segments and digger rotation using the visualizer's a
 
 ## [> SUBMISSION LINK <]()
 
-### [Robotics design using CAD -->]()
+### [Robotics design using CAD -->](https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/introduction2CAD.md)

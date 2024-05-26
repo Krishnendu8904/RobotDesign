@@ -9,15 +9,14 @@ Picture this: you've got a revolutionary robot design in your head, but sketchin
 
 Fusion 360 is a powerful 3D design and Computer-Aided Manufacturing (CAM) software platform. Here are some of its key functionalities:
 * 3D Modeling: Create realistic digital models of objects, perfect for designing robots and other complex machines.
-<img src="" height="350" width="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/images.jpeg?raw=true" height="300" width="400">
 * Assembly Simulation: Virtually test how components fit together and move, identifying potential design flaws before building.
-<img src="" height="350" width="350">
 * Joint Definition: Define various joint types (revolute, prismatic, etc.) within your model to simulate realistic robot movement.
-<img src="" height="350" width="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/88bb99c8614eb285264c0a11207f1f45.jpg?raw=true" height="300" width="400">
 * Collaboration Tools: Share your designs with others, receive feedback, and work together on projects seamlessly.
-<img src="" height="350" width="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/images-1.jpeg?raw=true" height="250" width="400">
 * CAM Capabilities: (For advanced users) Generate toolpaths for Computer Numerical Control (CNC) machines, allowing you to directly translate your designs into physical prototypes.
-<img src="" height="350" width="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/images-2.jpeg?raw=true" height="300" width="400">
 
 Fusion 360 is a versatile tool used in various industries, but its intuitive interface and powerful features make it a great choice for aspiring robot designers to bring their creations to life.
 
@@ -40,4 +39,4 @@ Fusion 360 - Educational Access*
 
 [Check out this playlist to learn more about using the software's powerful features.](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
 
-### [TASK 2 -->]()
+### [TASK 2 -->](https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/cad_task.md)

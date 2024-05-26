@@ -1,7 +1,7 @@
 # Joints in Robotics
 Now that we understand a robot’s fundamental structure let’s delve deeper into the fascinating world of joints! These critical connection points allow robots to move and interact with their environment. There are several key types of joints, each offering unique advantages:
 
-<img src="" width="350" height="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/defining_Robots/images.jpeg?raw=true" width="350" height="350">
 
 * Revolute (like your elbow): Rotates around one axis, perfect for reaching and grabbing.
 * Prismatic (like a drawer): Slides back and forth in a` straight line for precise movements.
@@ -26,6 +26,6 @@ We've explored joints and the connection points for movement, but how do robots 
 * Hydraulic actuators: These use pressurised fluid to generate powerful linear or rotary motion, and they are often used in industrial robots for heavy-duty tasks.
 * Pneumatic Actuators: Similar to hydraulic systems, they use compressed air for actuation, offering a more straightforward and lighter option for some applications.
 
-<img src="" width="350" height="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/defining_Robots/types-of-robot-motors(1).png?raw=true" width="500" height="350">
 
-### [All about URDF and Design -->]()
+### [All about URDF and Design -->](https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/urdf_file_format.md)

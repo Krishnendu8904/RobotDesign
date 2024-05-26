@@ -7,7 +7,7 @@ This challenge focuses on designing a simple robotic arm with a gripper end actu
 
 ### Design the Robotic Arm:
 
-<img src="" width="450" height="450" allign="center">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/41-JO+pBeVL._AC_UF1000,1000_QL80_.jpg?raw=true" width="450" height="350" allign="center">
 
 Use the CAD software (Fusion 360) to design a simple robotic arm with the following features:
 
@@ -15,7 +15,7 @@ Use the CAD software (Fusion 360) to design a simple robotic arm with the follow
 * An arm with at least two revolute joints to enable movement. (3 Links)
 * A gripper end actuator to grasp objects (simple claw or pincer mechanism).
 
-<img src="" widht="300" height="300">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/solid-edge-claw-tutorial-featured.jpg?raw=true" width="450" height="300">
 
 Consider joint ranges of motion and overall functionality.
 
@@ -50,3 +50,5 @@ Animate the joint movements to observe the arm's range of motion.
 **This challenge provides a fundamental hands-on experience in robotic arm design, simulation, and visualization. By completing it, you'll gain valuable skills for further exploration in the exciting world of robotics!**
 
 ### [Submission Link]()
+
+### [Back to Main Page -->](https://github.com/Krishnendu8904/RobotDesign/blob/main/README.md)

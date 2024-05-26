@@ -2,7 +2,7 @@
 
 This task introduces you to building a basic robotic arm using the Unified Robot Description Format (URDF). The robot you'll create, called a "2R Planar Robot Arm," features two revolute joints that connect a base to two links.
 
-<img src="" width="400" height="400">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/2r_arm.png?raw=true" width="500" height="400">
 
 What You'll Do:
 
@@ -24,4 +24,4 @@ Let's build your first robotic arm! This task lays the foundation for further ex
 
 ## [> SUBMISSION LINK <]()
 
-### [BONUS TASK -->]()
+### [BONUS TASK -->](https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/urdf_task_bonus.md)

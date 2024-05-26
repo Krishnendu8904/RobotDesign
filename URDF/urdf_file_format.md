@@ -1,7 +1,7 @@
 # Building the Blueprint: URDF and Robot Design
 We've explored robot building blocks (links & joints) and their power source (actuators). Now, meet URDF: the robot's blueprint! This format describes a robot's structure (links, joints, connections) and actuators in a way computers understand. Think building a robot in a simulation - URDF lets software grasp the robot's capabilities and simulate its movements.
 
-<img src="" width="350" height="350">
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/14689398051725704.png?raw=true" width="500" height="350">
 
 ### Here's a step-by-step guide to get you started creating your own URDF file:
  
@@ -39,4 +39,4 @@ We've included a [sample URDF file for an R2D2 robot](https://github.com/Robotic
 *Tip: If they're not in the same folder, update the path to the URDF file in the Python script.*
 
 
-### [TASK 1 -->]()
+### [TASK 1 -->](https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/urdf_task_A.md)

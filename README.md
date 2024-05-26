@@ -1,6 +1,8 @@
 # Week 2: Introduction to Robot Design
 ---
-### Welcome to the World of Robot Arm Design!
+### Welcome to the World of Robot Design!
+
+<img src="https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/Robot-Arm-002-scaled.jpg?raw=true" width="550" height="400">
 
 Have you ever dreamt of building a robot? Maybe one that can pick up objects or complete simple tasks? This challenge is your gateway to making that dream a reality – virtually, at least!
 
@@ -17,9 +19,9 @@ This challenge is designed for beginners, so no prior experience with robotics i
 
 
 # INDEX
-1) #### [Defining the Robot: Movement and Computation]()
-2) #### [Joints and Actuators]()
-3) #### [Building the Blueprint: URDF and Robot Design]()
-4) #### [Introduction to CAD (using Fusion360)]()
-5) #### [Converting from CAD to URDF]()
-6) #### [Final Task]()
+1) #### [Defining the Robot: Movement and Computation](https://github.com/Krishnendu8904/RobotDesign/blob/main/defining_Robots/robot_definaton.md)
+2) #### [Joints and Actuators](https://github.com/Krishnendu8904/RobotDesign/blob/main/defining_Robots/joints_actuators.md)
+3) #### [Building the Blueprint: URDF and Robot Design](https://github.com/Krishnendu8904/RobotDesign/blob/main/URDF/urdf_file_format.md)
+4) #### [Introduction to CAD (using Fusion360)](https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/introduction2CAD.md)
+5) #### [Converting from CAD to URDF](https://github.com/Krishnendu8904/RobotDesign/blob/main/CAD/ConvertFusion2URDF.md)
+6) #### [Final Task](https://github.com/Krishnendu8904/RobotDesign/blob/main/final_task.md)
